@@ -1,4 +1,4 @@
-OUTPUT_FILE_NAME=myhello
+OUTPUT_FILE_NAME=myhello.out
 
 CC=g++
 
