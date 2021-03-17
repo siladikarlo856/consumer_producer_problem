@@ -6,7 +6,7 @@ Producer-consumer problem solved using Mutex in C++
 <!-- CONTACT -->
 ## Contact
 
-Karlo Siladi - [@LinkedIn](https://www.linkedin.com/in/karlosiladi/) - siladikarlo856@gmail.com
+Karlo Siladi - [LinkedIn](https://www.linkedin.com/in/karlosiladi/) - siladikarlo856@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
