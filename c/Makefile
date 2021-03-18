@@ -1,4 +1,4 @@
-OUTPUT_FILE_NAME=myhello.out
+OUTPUT_FILE_NAME=consumer_producer_c.out
 
 CC=gcc
 
